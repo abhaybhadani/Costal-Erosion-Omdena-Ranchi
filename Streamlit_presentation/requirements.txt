@@ -1,0 +1,5 @@
+geopandas
+streamlit
+folium
+pandas
+os
